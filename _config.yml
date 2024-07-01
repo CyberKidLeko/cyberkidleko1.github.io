@@ -1,3 +1,47 @@
-title: NG Ngwenya
-show_downloads: true
+# Jekyll Configuration for Nomsa Ngwenya's CV
+
+title: "NG Ngwenya CV"
+author: "Nomsa Ngwenya"
+description: "Creative and goal-driven senior student of NWU with a passion for ICT."
+email: nkululekongwenya123@gmail.com
+
 theme: jekyll-theme-midnight
+
+# URL settings
+url: "https://cyberkidleko1.github.io" 
+baseurl: "/cyberkidleko1" 
+
+# Markdown processing
+markdown: kramdown
+
+# Permalinks
+permalink: pretty
+
+# Plugins (if needed, for example for GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media
+social:
+  github: CyberKidLeko
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Configuration for Midnight theme
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
