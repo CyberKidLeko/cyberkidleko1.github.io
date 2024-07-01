@@ -41,13 +41,13 @@ In my spare time, I indulge in learning more about the technological world. I ex
 
 ## Viewing the Site
 
-To view the CV online, go to [https://yourusername.github.io/nomsa-ngwenya-cv](https://yourusername.github.io/nomsa-ngwenya-cv) (replace `yourusername` with your GitHub username).
+To view the CV online, go to [https://cyberkidleko1.github.io/nomsa-ngwenya-cv](https://cyberkidleko1.github.io/nomsa-ngwenya-cv) (replace `yourusername` with your GitHub username).
 
 ## Running Locally
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/nomsa-ngwenya-cv.git
+    git clone https://github.com/cyberkidleko1/nomsa-ngwenya-cv.git
     ```
 2. **Navigate to the project directory**:
     ```bash
