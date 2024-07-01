@@ -9,7 +9,7 @@ theme: jekyll-theme-midnight
 
 # URL settings
 url: "https://cyberkidleko1.github.io" 
-baseurl: "/cyberkidleko1" 
+baseurl: "/nomsa-ngwenya-cv" 
 
 # Markdown processing
 markdown: kramdown
