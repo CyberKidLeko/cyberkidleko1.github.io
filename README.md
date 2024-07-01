@@ -41,7 +41,7 @@ In my spare time, I indulge in learning more about the technological world. I ex
 
 ## Viewing the Site
 
-To view the CV online, go to [https://cyberkidleko1.github.io/nomsa-ngwenya-cv](https://cyberkidleko1.github.io/nomsa-ngwenya-cv) (replace `yourusername` with your GitHub username).
+To view the CV online, go to [https://cyberkidleko1.github.io/nomsa-ngwenya-cv](https://cyberkidleko1.github.io/nomsa-ngwenya-cv)
 
 ## Running Locally
 
