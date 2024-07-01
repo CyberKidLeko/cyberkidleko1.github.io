@@ -5,11 +5,12 @@ author: "Nomsa Ngwenya"
 description: "Creative and goal-driven senior student of NWU with a passion for ICT."
 email: nkululekongwenya123@gmail.com
 
+# Use the Midnight theme
 theme: jekyll-theme-midnight
 
 # URL settings
-url: "https://cyberkidleko.github.io/cyberkidleko1.github.io/" 
-
+url: "https://cyberkidleko.github.io"  # Main GitHub Pages URL
+baseurl: "/cyberkidleko1.github.io"    # Repository name
 
 # Markdown processing
 markdown: kramdown
@@ -17,7 +18,7 @@ markdown: kramdown
 # Permalinks
 permalink: pretty
 
-# Plugins (if needed, for example for GitHub Pages)
+# Plugins (for GitHub Pages)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
